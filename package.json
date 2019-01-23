@@ -11,6 +11,9 @@
         "theme",
         "template"
     ],
+    "scripts": {
+        "start": "gulp dev"
+    },
     "homepage": "https://startbootstrap.com/template-overviews/agency",
     "bugs": {
         "url": "https://github.com/BlackrockDigital/startbootstrap-agency/issues",
