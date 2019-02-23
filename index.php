@@ -11,6 +11,7 @@
 
     <!-- Header -->
     <header class="masthead">
+      <!-- Image has to be fit with the change of the size of the screen -->
     <img src="img/header-bg2.jpg"/>
 
       <div class="container">
