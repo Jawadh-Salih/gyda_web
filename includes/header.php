@@ -21,12 +21,7 @@
     <link href="css/agency.css" rel="stylesheet">
 
     <!-- Scripts -->
-    <script src = "https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script>
-      $(function() {
-        $('#navbarContent').load("includes/navbar.html");
-      }
-    </script>
+   
   
     <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
@@ -40,5 +35,5 @@
     <script src="js/contact_me.js"></script>
 
     <!-- Custom scripts for this template -->
-    <script src="js/agency.min.js"></script>
+    <script src="js/agency.js"></script>
   </head>

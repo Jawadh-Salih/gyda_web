@@ -699,9 +699,10 @@ ul.social-buttons li a {
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
   color: white;
-  border-radius: 100%;
+  border-radius: 20%;
   outline: none;
   background-color: #212529;
+  margin : 10px;
 }
 
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {

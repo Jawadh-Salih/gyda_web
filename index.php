@@ -22,7 +22,7 @@
         <!-- </div> -->
       </div>
     </header>
-    <?php // include "includes/footer.php" ?>
+    <?php  require "includes/footer.php" ?>
   </body>
 
 </html>
