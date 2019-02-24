@@ -4,9 +4,9 @@
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="about.php">About</a>
           </li>
-          <li class="nav-item">
+          <!-- <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="gallery.php">Gallery</a>
-          </li>
+          </li> -->
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="contact.php">Contact</a>
           </li>
