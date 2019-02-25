@@ -25,21 +25,21 @@
                         <!-- Carousel items -->
                         <div class="carousel-inner">
                             <div class="active item">
-                                <img src="img/portfolio/slide20.jpg" alt>    
+                                <img src="img/portfolio/Slide20.JPG" alt>    
                             </div>
                             <div class="item">
-                                <img src="img/portfolio/slide17.jpg" alt>    
+                                <img src="img/portfolio/Slide17.JPG" alt>    
                             </div>
                             <div class="item">
-                                <img src="img/portfolio/slide18.jpg" alt>    
+                                <img src="img/portfolio/Slide18.JPG" alt>    
                             </div>
                             <div class="item">
-                                <img src="img/portfolio/slide19.jpg" alt>    
+                                <img src="img/portfolio/Slide19.JPG" alt>    
                             </div>
                         </div>
                         <!-- Carousel nav -->
-                        <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
-                        <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
+                        <a class="carousel-control left" href="#myCarousel" data-Slide="prev">&lsaquo;</a>
+                        <a class="carousel-control right" href="#myCarousel" data-Slide="next">&rsaquo;</a>
                     </div>
                     <p>
                         Booklist is project condcuted by GYDA where we are in the objective of leveraging the 

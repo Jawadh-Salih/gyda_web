@@ -24,16 +24,16 @@
                         <!-- Carousel items -->
                         <div class="carousel-inner">
                             <div class="active item">
-                                <img src="img/portfolio/Slide7.jpg" alt>    
+                                <img src="img/portfolio/Slide7.JPG" alt>    
                             </div>
                             <div class="item">
-                                <img src="img/portfolio/Slide8.jpg" alt>    
+                                <img src="img/portfolio/Slide8.JPG" alt>    
                             </div>
                             <div class="item">
-                                <img src="img/portfolio/Slide9.jpg" alt>    
+                                <img src="img/portfolio/Slide9.JPG" alt>    
                             </div>
                             <div class="item">
-                                <img src="img/portfolio/Slide10.jpg" alt>    
+                                <img src="img/portfolio/Slide10.JPG" alt>    
                             </div>
                             
                         </div>

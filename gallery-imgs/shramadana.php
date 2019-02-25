@@ -23,13 +23,13 @@
                         <!-- Carousel items -->
                         <div class="carousel-inner">
                             <div class="active item">
-                                <img src="img/portfolio/Slide14.jpg" alt>    
+                                <img src="img/portfolio/Slide14.JPG" alt>    
                             </div>
                             <div class="item">
-                                <img src="img/portfolio/Slide15.jpg" alt>    
+                                <img src="img/portfolio/Slide15.JPG" alt>    
                             </div>
                             <div class="item">
-                                <img src="img/portfolio/Slide16.jpg" alt>    
+                                <img src="img/portfolio/Slide16.JPG" alt>    
                             </div>
                             
                         </div>

@@ -34,7 +34,7 @@
                   <i class="fas fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/Slide4.jpg" alt="">
+              <img class="img-fluid" src="img/portfolio/Slide4.JPG" alt="">
             </a>
             <div class="portfolio-caption">
               <h4>Zakathul Fitr</h4>
@@ -49,7 +49,7 @@
                   <i class="fas fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/Slide21.jpg" alt="">
+              <img class="img-fluid" src="img/portfolio/Slide21.JPG" alt="">
             </a>
             <div class="portfolio-caption">
               <h4>Qurban</h4>
@@ -64,7 +64,7 @@
                   <i class="fas fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/Slide7.jpg" alt="">
+              <img class="img-fluid" src="img/portfolio/Slide7.JPG" alt="">
             </a>
             <div class="portfolio-caption">
               <h4>Ramadhan Pack</h4>
@@ -79,7 +79,7 @@
                   <i class="fas fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/Slide11.jpg" alt="">
+              <img class="img-fluid" src="img/portfolio/Slide11.JPG" alt="">
             </a>
             <div class="portfolio-caption">
               <h4>Ifthar</h4>
@@ -94,7 +94,7 @@
                   <i class="fas fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/Slide14.jpg" alt="">
+              <img class="img-fluid" src="img/portfolio/Slide14.JPG" alt="">
             </a>
             <div class="portfolio-caption">
               <h4>Shramadana Campaign</h4>
@@ -109,7 +109,7 @@
                   <i class="fas fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/Slide23.jpg" alt="">
+              <img class="img-fluid" src="img/portfolio/Slide23.JPG" alt="">
             </a>
             <div class="portfolio-caption">
               <h4>Futsal</h4>
