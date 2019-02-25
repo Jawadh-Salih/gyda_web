@@ -22,20 +22,26 @@
                         </ol>
                         <!-- Carousel items -->
                         <div class="carousel-inner">
-                            <div class="active item">
+                            <div class="carousel-item active">
                                 <img src="img/portfolio/Slide4.JPG" alt>    
                             </div>
-                            <div class="item">
+                            <div class="carousel-item">
                                 <img src="img/portfolio/Slide5.JPG" alt>    
                             </div>
-                            <div class="item">
+                            <div class="carousel-item">
                                 <img src="img/portfolio/Slide6.JPG" alt>    
                             </div>
                             
                         </div>
                         <!-- Carousel nav -->
-                        <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
-                        <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
+                        <a class="carousel-control-prev left" href="#myCarousel" data-Slide="prev">
+                          <span class="carousel-control-prev-icon" aria-hidden="false"></span>
+                          <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next right" href="#myCarousel" data-Slide="next">
+                          <span class="carousel-control-next-icon" aria-hidden="false"></span>
+                          <span class="sr-only">Next</span>
+                        </a>
                     </div>
                     <p>
                         Collecting and Distributing Zakathul Fitr rice from people who are strong enough to provide 

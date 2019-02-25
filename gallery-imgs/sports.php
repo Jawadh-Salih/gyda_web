@@ -21,14 +21,20 @@
                         </ol>
                         <!-- Carousel items -->
                         <div class="carousel-inner">
-                            <div class="active item">
+                            <div class="carousel-item active">
                                 <img src="img/portfolio/Slide23.JPG" alt>    
                             </div>
                             
                         </div>
                         <!-- Carousel nav -->
-                        <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
-                        <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
+                        <a class="carousel-control-prev left" href="#myCarousel" data-Slide="prev">
+                          <span class="carousel-control-prev-icon" aria-hidden="false"></span>
+                          <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next right" href="#myCarousel" data-Slide="next">
+                          <span class="carousel-control-next-icon" aria-hidden="false"></span>
+                          <span class="sr-only">Next</span>
+                        </a>
                     </div>
                     <p>Unity, Health and Fitness of our members are more crucial inorder to serve the community.
                         So the annual sport tournament has been held out and young sportsmen are recognised 

@@ -24,22 +24,28 @@
                         </ol>
                         <!-- Carousel items -->
                         <div class="carousel-inner">
-                            <div class="active item">
+                            <div class="carousel-item active">
                                 <img src="img/portfolio/Slide20.JPG" alt>    
                             </div>
-                            <div class="item">
+                            <div class="carousel-item">
                                 <img src="img/portfolio/Slide17.JPG" alt>    
                             </div>
-                            <div class="item">
+                            <div class="carousel-item">
                                 <img src="img/portfolio/Slide18.JPG" alt>    
                             </div>
-                            <div class="item">
+                            <div class="carousel-item">
                                 <img src="img/portfolio/Slide19.JPG" alt>    
                             </div>
                         </div>
                         <!-- Carousel nav -->
-                        <a class="carousel-control left" href="#myCarousel" data-Slide="prev">&lsaquo;</a>
-                        <a class="carousel-control right" href="#myCarousel" data-Slide="next">&rsaquo;</a>
+                        <a class="carousel-control-prev left" href="#myCarousel" data-Slide="prev">
+                          <span class="carousel-control-prev-icon" aria-hidden="false"></span>
+                          <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next right" href="#myCarousel" data-Slide="next">
+                          <span class="carousel-control-next-icon" aria-hidden="false"></span>
+                          <span class="sr-only">Next</span>
+                        </a>
                     </div>
                     <p>
                         Booklist is project condcuted by GYDA where we are in the objective of leveraging the 

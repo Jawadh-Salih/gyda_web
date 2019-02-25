@@ -17,25 +17,25 @@
                   <div id="myCarousel" class="carousel slide">
                         <ol class="carousel-indicators">
                             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                            <li data-target="#myCarousel" data-slide-to="1"></li>
-                            <li data-target="#myCarousel" data-slide-to="2"></li>
+                           
                         </ol>
                         <!-- Carousel items -->
                         <div class="carousel-inner">
-                            <div class="active item">
-                                <img src="img/portfolio/Slide4.JPG" alt>    
+                            <div class="carousel-item active">
+                                <img src="img/portfolio/Slide21.JPG" alt>    
                             </div>
-                            <div class="item">
-                                <img src="img/portfolio/Slide5.JPG" alt>    
-                            </div>
-                            <div class="item">
-                                <img src="img/portfolio/Slide6.JPG" alt>    
-                            </div>
+                            
                             
                         </div>
                         <!-- Carousel nav -->
-                        <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
-                        <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
+                        <a class="carousel-control-prev left" href="#myCarousel" data-Slide="prev">
+                          <span class="carousel-control-prev-icon" aria-hidden="false"></span>
+                          <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next right" href="#myCarousel" data-Slide="next">
+                          <span class="carousel-control-next-icon" aria-hidden="false"></span>
+                          <span class="sr-only">Next</span>
+                        </a>
                     </div>
                     <p>Annual Qurban project done on the month of Haj where the deed of Ulhiyya has been conducted
                         and distributed among all the muslims in Gothatuwa.

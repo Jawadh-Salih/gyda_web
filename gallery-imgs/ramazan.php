@@ -23,23 +23,29 @@
                         </ol>
                         <!-- Carousel items -->
                         <div class="carousel-inner">
-                            <div class="active item">
+                            <div class="active carousel-item ">
                                 <img src="img/portfolio/Slide7.JPG" alt>    
                             </div>
-                            <div class="item">
+                            <div class="carousel-item ">
                                 <img src="img/portfolio/Slide8.JPG" alt>    
                             </div>
-                            <div class="item">
+                            <div class="carousel-item ">
                                 <img src="img/portfolio/Slide9.JPG" alt>    
                             </div>
-                            <div class="item">
+                            <div class="carousel-item ">
                                 <img src="img/portfolio/Slide10.JPG" alt>    
                             </div>
                             
                         </div>
                         <!-- Carousel nav -->
-                        <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
-                        <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
+                        <a class="carousel-control-prev left" href="#myCarousel" data-Slide="prev">
+                          <span class="carousel-control-prev-icon" aria-hidden="false"></span>
+                          <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next right" href="#myCarousel" data-Slide="next">
+                          <span class="carousel-control-next-icon" aria-hidden="false"></span>
+                          <span class="sr-only">Next</span>
+                        </a>
                     </div>
                     <p> Rations packs are given for the needy people who are preparing for their ramadhan so that they
                         can spent the time on the good deeds during ramadhan as their burden of hunger become easier.
