@@ -19,7 +19,7 @@
                   <i class="fas fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="img/portfolio/slide20.JPG" alt="">
+              <img class="img-fluid" src="img/portfolio/Slide20.JPG" alt="">
             </a>
             <div class="portfolio-caption">
               <h4>Booklist</h4>
