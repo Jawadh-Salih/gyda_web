@@ -22,7 +22,7 @@
                         <!-- Carousel items -->
                         <div class="carousel-inner">
                             <div class="active item">
-                                <img src="img/portfolio/Slide23.jpg" alt>    
+                                <img src="img/portfolio/Slide23.JPG" alt>    
                             </div>
                             
                         </div>
