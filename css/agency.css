@@ -328,6 +328,8 @@ header.masthead {
 .portfolio-modal .modal-content {
   padding: 100px 0;
   text-align: center;
+  width: 100% !important;
+
 }
 
 .portfolio-modal .modal-content h2 {
@@ -707,4 +709,13 @@ ul.social-buttons li a {
 
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
   background-color: #4aabc9;
+}
+
+
+/* Carousel styles */
+.fill {
+  width: 100% !important;
+  height: 100%;
+  background-position: center;
+  background-size: cover;
 }

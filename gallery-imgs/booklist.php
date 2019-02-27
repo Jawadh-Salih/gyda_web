@@ -15,34 +15,34 @@
                   <!-- Project Details Go Here -->
                     <h2 class="text-uppercase">Booklist</h2>
                     <p class="item-intro text-muted">Distributing Stationaries and Accessaries for Needy Students.</p>
-                    <div id="myCarousel" class="carousel slide">
+                    <div id="bookCarousel" class="carousel slide">
                         <ol class="carousel-indicators">
-                            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                            <li data-target="#myCarousel" data-slide-to="1"></li>
-                            <li data-target="#myCarousel" data-slide-to="2"></li>
-                            <li data-target="#myCarousel" data-slide-to="3"></li>
+                            <li data-target="#bookCarousel" data-slide-to="0" class="active"></li>
+                            <li data-target="#bookCarousel" data-slide-to="1"></li>
+                            <li data-target="#bookCarousel" data-slide-to="2"></li>
+                            <li data-target="#bookCarousel" data-slide-to="3"></li>
                         </ol>
                         <!-- Carousel items -->
                         <div class="carousel-inner">
-                            <div class="carousel-item active">
+                            <div class="carousel-item fill active">
                                 <img src="img/portfolio/Slide20.JPG" alt>    
                             </div>
-                            <div class="carousel-item">
+                            <div class="carousel-item fill">
                                 <img src="img/portfolio/Slide17.JPG" alt>    
                             </div>
-                            <div class="carousel-item">
+                            <div class="carousel-item fill">
                                 <img src="img/portfolio/Slide18.JPG" alt>    
                             </div>
-                            <div class="carousel-item">
+                            <div class="carousel-item fill">
                                 <img src="img/portfolio/Slide19.JPG" alt>    
                             </div>
                         </div>
                         <!-- Carousel nav -->
-                        <a class="carousel-control-prev left" href="#myCarousel" data-Slide="prev">
+                        <a class="carousel-control-prev left" href="#bookCarousel" data-Slide="prev">
                           <span class="carousel-control-prev-icon" aria-hidden="false"></span>
                           <span class="sr-only">Previous</span>
                         </a>
-                        <a class="carousel-control-next right" href="#myCarousel" data-Slide="next">
+                        <a class="carousel-control-next right" href="#bookCarousel" data-Slide="next">
                           <span class="carousel-control-next-icon" aria-hidden="false"></span>
                           <span class="sr-only">Next</span>
                         </a>

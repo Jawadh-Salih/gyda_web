@@ -14,9 +14,9 @@
                   <!-- Project Details Go Here -->
                   <h2 class="text-uppercase">Qurban</h2>
                   <p class="item-intro text-muted">Ulhiyya.</p>
-                  <div id="myCarousel" class="carousel slide">
+                  <div id="qurbanCarousel" class="carousel slide">
                         <ol class="carousel-indicators">
-                            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                            <li data-target="#qurbanCarousel" data-slide-to="0" class="active"></li>
                            
                         </ol>
                         <!-- Carousel items -->
@@ -28,11 +28,11 @@
                             
                         </div>
                         <!-- Carousel nav -->
-                        <a class="carousel-control-prev left" href="#myCarousel" data-Slide="prev">
+                        <a class="carousel-control-prev left" href="#qurbanCarousel" data-Slide="prev">
                           <span class="carousel-control-prev-icon" aria-hidden="false"></span>
                           <span class="sr-only">Previous</span>
                         </a>
-                        <a class="carousel-control-next right" href="#myCarousel" data-Slide="next">
+                        <a class="carousel-control-next right" href="#qurbanCarousel" data-Slide="next">
                           <span class="carousel-control-next-icon" aria-hidden="false"></span>
                           <span class="sr-only">Next</span>
                         </a>
