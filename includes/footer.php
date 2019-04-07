@@ -11,7 +11,7 @@
           <div class="col-md-4">
             <ul class="list-inline social-buttons">
               <li class="list-inline-item">
-                <a href="https://www.facebook.com/gyda.gothatuwa.5" target="_blank">
+                <a href="https://www.facebook.com/gothatuwa" target="_blank">
                   <i class="fab fa-facebook-f"></i>
                 </a>
               </li>
