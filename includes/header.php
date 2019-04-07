@@ -5,7 +5,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>GYDA</title>
+
 
     <!-- Bootstrap core CSS -->
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.0/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-PDle/QlgIONtM1aqA2Qemk5gPOE7wFq8+Em+G/hmo5Iq0CCmYZLv3fVRDJ4MMwEA" crossorigin="anonymous">
@@ -34,4 +34,8 @@
 
     <!-- Custom scripts for this template -->
     <script src="js/agency.js"></script>
+
+    <title>GYDA</title>
+    <link rel="shortcut icon" href="img/logos/gyda_logo_icon.ico" type="image/png">
+
   </head>
